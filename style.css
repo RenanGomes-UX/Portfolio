@@ -318,6 +318,11 @@ section .title::after{
 
 /* Habilidades css */
 
+
+.imgg-sound {
+    border-radius: 50%;
+  }
+  
 .imgg {
     width: 100%;
     
@@ -326,7 +331,7 @@ section .title::after{
 }
 
 .skills .title::after{
-    content: "O que eu sei";
+    content: "Estudo de caso";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
